@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "coffee",
+    "price": 4.3,
+    "category": "Food"
+  },
+  {
+    "id": 2,
+    "name": "plant",
+    "price": 5.0,
+    "category": "Health"
+  },
+  {
+    "id": 3,
+    "name": "coffee",
+    "price": 4.5,
+    "category": "Food"
+  },
+  {
+    "id": 4,
+    "name": "cake",
+    "price": 14.99,
+    "category": "Food"
+  }
+]
